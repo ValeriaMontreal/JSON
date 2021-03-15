@@ -10,3 +10,5 @@ Lorsqu’on choisira le dossier du patient, un tableau HTML sera affiché
 Hospitalisations pour un établissement donné ou pour une spécialité donnée.
 Afficher un champ SELECT pour la liste des codes d’établissement et une autre liste pour les spécialités. 
 Les champs SELECT sont générés directement à partir des données des tableaux JSON
+
+http://valeriamontreal.com/projects/
